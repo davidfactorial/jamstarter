@@ -1,7 +1,19 @@
 # A JAMStack Template
 
-Vue3
-TailwindCSS
+* Vue3
+* TailwindCSS
+* Autocompletion
+* Linting
+* Formatting
+
+Install these VSCode plugins:
+
+* ESLint
+* Headwind
+* Prettier - Code formatter
+* Tailwind CSS IntelliSense
+* Vetur
+* Vue VSCode Snippets
 
 Add these to your `.vscode/settings.json` file:
 
